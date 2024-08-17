@@ -24,4 +24,4 @@ This project is a simple Weather App that allows users to enter a location and r
 
 ## Demo
 
-![Weather App Image](https://github.com/YourUsername/YourRepoName/raw/main/images/weather-app-demo.png)
+![Weather App Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Weather%20App/weatherapp-img.png?raw=true)
